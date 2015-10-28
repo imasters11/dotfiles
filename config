@@ -1,0 +1,7 @@
+Host fiji
+     HostName fiji.physics.upenn.edu
+     User imasters
+
+Host eniac
+     HostName eniac.seas.upenn.edu
+     User imasters
